@@ -37,7 +37,7 @@
     "colors": "~0.6",
     "indexgen-lib": "*"
   },
-  "deprecated": false,
+  "deprecated": true,
   "description": "Statically generates index.js for every directory in a node.js project, so you don't have to add them manually.",
   "engines": {
     "node": ">=0.10"
