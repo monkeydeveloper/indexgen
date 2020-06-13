@@ -1,0 +1,63 @@
+{
+  "_from": "indexgen",
+  "_id": "indexgen@0.3.0-4",
+  "_inBundle": false,
+  "_integrity": "sha1-mDcINP5yLV+4zNruBczRte8QH1Y=",
+  "_location": "/indexgen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "indexgen",
+    "name": "indexgen",
+    "escapedName": "indexgen",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/indexgen/-/indexgen-0.3.0-4.tgz",
+  "_shasum": "98370834fe722d5fb8ccdaee05ccd1b5ef101f56",
+  "_spec": "indexgen",
+  "_where": "C:\\Users\\klost\\indexgen",
+  "author": {
+    "name": "monkeydeveloper"
+  },
+  "bin": {
+    "indexgen": "./bin/indexgen-cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/monkeydeveloper/indexgen/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors": "~0.6",
+    "indexgen-lib": "*"
+  },
+  "deprecated": false,
+  "description": "Statically generates index.js for every directory in a node.js project, so you don't have to add them manually.",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "homepage": "https://github.com/monkeydeveloper/indexgen",
+  "keywords": [
+    "require",
+    "index.js",
+    "index",
+    "tool",
+    "command-line",
+    "generate",
+    "generator"
+  ],
+  "license": "BSD",
+  "name": "indexgen",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/monkeydeveloper/indexgen.git"
+  },
+  "version": "0.3.0-4"
+}
