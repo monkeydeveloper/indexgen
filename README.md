@@ -1,8 +1,6 @@
 # PROJECT DEPRECATED/ABANDONED
 #indexgen
 
-[![NPM](https://nodei.co/npm/indexgen.png?downloads=true)](https://nodei.co/npm/indexgen/)
-
 Statically generates index.js for every directory in a node.js project, so you don't have to add them manually in order to be able to load them with a single 'require'.
 It is an alternative tool to dynamic module loaders, which force you to use other functions than the standard `require` to load your modules, additionally freeing some resources :)
 
